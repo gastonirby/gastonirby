@@ -9,7 +9,7 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 ⚙️Tech Stack:
 
 <img src = "https://user-images.githubusercontent.com/91291366/159381034-ed96068e-c9f6-4ffc-b45f-6bcd177a56ef.svg" width="80" height="80">
-<img src = "https://user-images.githubusercontent.com/91291366/159381095-991d128f-9b61-433c-a199-a920ad98d108.svg" width="80" height="80">
+<img src = "https://user-images.githubusercontent.com/91291366/159381095-991d128f-9b61-433c-a199-a920ad98d108.svg" width="80" height="80" color=#61DAFB>
 
 
 Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS!
