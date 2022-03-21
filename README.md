@@ -3,8 +3,8 @@ As a homeschooled, awkward kid, at the naive age of 18, I took off for Australia
 
 In my career, I have enjoyed working in hospitality. I started at Starbucks as a barista, where I learned and grew into a trainer and then a supervisor. I pivoted to the bartending world, which I entered as a bar-back and was quickly promoted into the position of bartender and finally head bartender. The service industry taught me a lot, primarily a love for people. Working alongside others, building others as a leader, serving others - to see their vision come to life, these are the things I loved the most within hospitality.
 
-Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun to seek a career in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using <i>JavaScript, React, & CSS</i>
-
+Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun to seek a career in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using JavaScript, React, & CSS
+#CB3837
 
 ⚙️Tech Stack:
 Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS!
