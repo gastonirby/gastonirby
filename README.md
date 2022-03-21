@@ -7,13 +7,14 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 
 
 ⚙️Tech Stack:
-Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS![adobeacrobatreader](https://user-images.githubusercontent.com/91291366/159378286-eb37ae22-7fa5-41a3-a2a7-88763fca3889.svg)
+Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS!
 
 
 Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code
 
 <h3>Get in touch!</h3>
 ✉️ gaston.irby@gmail.com
+![adobecreativecloud](https://user-images.githubusercontent.com/91291366/159379753-761e0edf-e5d4-45d9-96a6-69d91df4823c.svg)
 
 <!--
 **gastonirby/gastonirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
