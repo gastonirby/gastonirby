@@ -9,7 +9,7 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 ⚙️Tech Stack:
 Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS!
 ![npm](https://user-images.githubusercontent.com/91291366/159380224-2741beb3-c127-445b-9922-e29538c75100.svg)
-
+<img src = "![npm](https://user-images.githubusercontent.com/91291366/159380224-2741beb3-c127-445b-9922-e29538c75100.svg)" width="100" height="100">
 
 Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code
 
