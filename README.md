@@ -9,12 +9,12 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 ⚙️Tech Stack:
 
 <img src = "https://user-images.githubusercontent.com/91291366/159381034-ed96068e-c9f6-4ffc-b45f-6bcd177a56ef.svg" width="80" height="80">
-<img src = "![react](https://user-images.githubusercontent.com/91291366/159381095-991d128f-9b61-433c-a199-a920ad98d108.svg)" width="80" height="80">
+<img src = "https://user-images.githubusercontent.com/91291366/159381095-991d128f-9b61-433c-a199-a920ad98d108.svg" width="80" height="80">
 
 
 Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS!
 
-<img src = "![npm](https://user-images.githubusercontent.com/91291366/159380224-2741beb3-c127-445b-9922-e29538c75100.svg)" width="100" height="100">
+<img src = "https://user-images.githubusercontent.com/91291366/159380224-2741beb3-c127-445b-9922-e29538c75100.svg" width="100" height="100">
 
 Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code
 
