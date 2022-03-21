@@ -7,6 +7,7 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 
 ⚙️Tech Stack:
 Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS
+
 Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code
 
 Get in touch!
