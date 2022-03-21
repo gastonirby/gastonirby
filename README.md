@@ -10,7 +10,7 @@ Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScrip
 
 Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code
 
-Get in touch!
+<h1>Get in touch!</h1>
 ✉️ gaston.irby@gmail.com
 
 <!--
