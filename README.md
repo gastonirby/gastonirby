@@ -7,6 +7,8 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 
 
 ⚙️Tech Stack:
+<img src="https://camo.githubusercontent.com/fbfcb9e……6f2e7a6…" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
+
 
 <img src = "https://user-images.githubusercontent.com/91291366/159381034-ed96068e-c9f6-4ffc-b45f-6bcd177a56ef.svg" width="80" height="80">
 <img src = "https://user-images.githubusercontent.com/91291366/159381095-991d128f-9b61-433c-a199-a920ad98d108.svg" width="80" height="80" color=#61DAFB>
