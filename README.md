@@ -11,7 +11,6 @@ Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code
 
 Get in touch!
 ✉️ gaston.irby@gmail.com
-🐦 https://twitter.com/GastonIrby
 
 <!--
 **gastonirby/gastonirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
