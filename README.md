@@ -1,16 +1,18 @@
-About
+<h1>Hi, I'm Gaston</h1>
 As a homeschooled, awkward kid, at the naive age of 18, I took off for Australia, alone. The following 4 years there, I studied, played, and grew up. These first steps out of home are, what I believe, what set me up to live life in such a way that I am constantly daring to better myself.
 
 In my career, I have enjoyed working in hospitality. I started at Starbucks as a barista, where I learned and grew into a trainer and then a supervisor. I pivoted to the bartending world, which I entered as a bar-back and was quickly promoted into the position of bartender and finally head bartender. The service industry taught me a lot, primarily a love for people. Working alongside others, building others as a leader, serving others - to see their vision come to life, these are the things I loved the most within hospitality.
 
-Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun to seek a career in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow.
+Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun to seek a career in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using <i>JavaScript, React, & CSS</i>
+
 
 ⚙️Tech Stack:
-Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS
+Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS![adobeacrobatreader](https://user-images.githubusercontent.com/91291366/159378286-eb37ae22-7fa5-41a3-a2a7-88763fca3889.svg)
+
 
 Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code
 
-<h1>Get in touch!</h1>
+<h3>Get in touch!</h3>
 ✉️ gaston.irby@gmail.com
 
 <!--
