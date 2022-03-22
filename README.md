@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gaston</h1>
+<h1>Hi, I'm Gaston</h1 text align=center>
 
 <p>As a homeschooled, awkward kid, at the naive age of 18, I took off for Australia, alone. The following 4 years there, I studied, played, and grew up. These first steps out of home are, what I believe, what set me up to live life in such a way that I am constantly daring to better myself.
 
@@ -17,6 +17,8 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg">
+<img src = "https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg">
+<img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 
 <h3>Get in touch!</h3>
 ✉️ gaston.irby@gmail.com
