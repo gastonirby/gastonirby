@@ -6,13 +6,12 @@ In my career, I have enjoyed working in hospitality. I started at Starbucks as a
 Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun to seek a career in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using JavaScript, React, & CSS
 
 
-<h2>⚙️Tech Stack:</h2>
+
 <img src = "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/axios/axios-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-<br>
 <img src = "https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
