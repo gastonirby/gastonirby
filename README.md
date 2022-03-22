@@ -25,12 +25,13 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 <img src = "https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 </section>
+<h2></h2>
 
-<footer align=center>
+
+<section align=center>
   <h3>Get in touch!</h3>
-  📫 gaston.irby@gmail.com
-  <br>
   <a href="https://www.linkedin.com/in/gastonirby/">
     <img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
   </a>
-</footer>
+</section>
+<h4 align left>📫 gaston.irby@gmail.com</h4>
