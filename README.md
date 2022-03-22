@@ -6,7 +6,7 @@ In my career, I have enjoyed working in hospitality. I started at Starbucks as a
 Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun to seek a career in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using JavaScript, React, & CSS
 
 
-⚙️Tech Stack:
+<h2>⚙️Tech Stack:</h2>
 <img src = "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/axios/axios-icon.svg">
@@ -18,9 +18,6 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg">
-<img src = "">
-
-
 
 <h3>Get in touch!</h3>
 ✉️ gaston.irby@gmail.com
