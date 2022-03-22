@@ -1,4 +1,9 @@
-<h1>Hi, I'm Gaston</h1 text align=center>
+<h1 align=center>
+  <img src = "https://user-images.githubusercontent.com/91291366/159553740-e8bc37dd-8281-4208-b27b-57a575f0f41e.png" width = 3% height = 3%>
+    Noooo one.. codes like Gaston!
+  <img src = "https://user-images.githubusercontent.com/91291366/159553740-e8bc37dd-8281-4208-b27b-57a575f0f41e.png" width = 3% height = 3%>
+</h1>
+  
 
 <p>As a homeschooled, awkward kid, at the naive age of 18, I took off for Australia, alone. The following 4 years there, I studied, played, and grew up. These first steps out of home are, what I believe, what set me up to live life in such a way that I am constantly daring to better myself.
 
@@ -6,7 +11,7 @@ In my career, I have enjoyed working in hospitality. I started at Starbucks as a
 
 Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun to seek a career in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using JavaScript, React, & CSS</p>
 
-
+<section align=center>
 <img src = "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/axios/axios-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
@@ -19,6 +24,7 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+</section>
 
 <h3>Get in touch!</h3>
 ✉️ gaston.irby@gmail.com
