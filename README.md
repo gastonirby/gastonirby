@@ -22,6 +22,9 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 
 <h3>Get in touch!</h3>
 ✉️ gaston.irby@gmail.com
+<a href="https://www.linkedin.com/in/gastonirby/">
+  <img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
+</a>
 
 <!--
 **gastonirby/gastonirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
