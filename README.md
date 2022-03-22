@@ -12,6 +12,7 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 <img src = "https://www.vectorlogo.zone/logos/axios/axios-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+<br>
 <img src = "https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
