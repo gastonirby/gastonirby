@@ -17,16 +17,10 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
 <img src = "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-<img src = "https://user-images.githubusercontent.com/91291366/159380224-2741beb3-c127-445b-9922-e29538c75100.svg" width="100" height="100">
-<img src = "https://www.vectorlogo.zone/logos/github/github-tile.svg">
+<img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg">
 <img src = "">
 
 
-Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS!
-
-<img src = "https://user-images.githubusercontent.com/91291366/159380224-2741beb3-c127-445b-9922-e29538c75100.svg" width="100" height="100">
-
-Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code
 
 <h3>Get in touch!</h3>
 ✉️ gaston.irby@gmail.com
