@@ -13,6 +13,9 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 <img src = "https://user-images.githubusercontent.com/91291366/159381034-ed96068e-c9f6-4ffc-b45f-6bcd177a56ef.svg" width="80" height="80">
 <img src = "https://user-images.githubusercontent.com/91291366/159381095-991d128f-9b61-433c-a199-a920ad98d108.svg" width="80" height="80" color=#61DAFB>
 <img src = "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
+<img src = "https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg">
+<img src = "">
+<img src = "">
 
 
 Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS!
