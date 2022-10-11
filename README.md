@@ -12,7 +12,7 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
   <br> 
   <b> Hire me as your next developer!</b>
 </p>
-
+ 
 <section align=center>
 
   <img src = "https://www.vectorlogo.zone/logos/axios/axios-icon.svg">
