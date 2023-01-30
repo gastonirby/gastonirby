@@ -15,17 +15,17 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
  
 <section align=center> 
 
-  <img src = "https://www.vectorlogo.zone/logos/axios/axios-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg">
-  <img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img src = "https://www.vectorlogo.zone/logos/axios/axios-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" width=6% height=6%>
+  <img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width=6% height=6%>
   <img src = "https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width=6% height=6%>
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=6% height=6%>
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width=6% height=6%>
