@@ -33,6 +33,10 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 </section>
 <h2></h2>
 
+<h2>Take a look at my portfolio!</h2>
+<br>
+<a>https://gastonirby.github.io/<a>
+
 
 <section align=center>
   <h3>Get in touch!</h3>
