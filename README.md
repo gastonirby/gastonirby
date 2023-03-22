@@ -1,5 +1,5 @@
 <h1 align=center>
-  <img src = "https://user-images.githubusercontent.com/91291366/159553740-e8bc37dd-8281-4208-b27b-57a575f0f41e.png" width = 3% height = 3%>
+  <img src = "https://user-images.githubusercontent.com/91291366/159553740-e8bc37dd-8281-4208-b27b-57a575f0f41e.png" width = 4% height = 4%>
     Noooo one.. codes like Gaston!
   <img src = "https://user-images.githubusercontent.com/91291366/159553740-e8bc37dd-8281-4208-b27b-57a575f0f41e.png" width = 3% height = 3%> 
 </h1>
@@ -10,12 +10,10 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 
   <br>
   
-<h2>Take a look at my portfolio</h2>
-
-<link>https://gastonirby.github.io/</link>
-
+<h3 align=center>Take a look at my portfolio</h3>
+<h4 align=center><link align=center>https://gastonirby.github.io/</link></h4>
   <br> 
-  <b style="color:blue;"> Hire me as your next developer!</b>
+  <h3 align=center>Hire me as your next developer!</h3>
 </p>
  
 <section align=center> 
