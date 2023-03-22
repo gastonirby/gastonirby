@@ -9,8 +9,13 @@
 Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun exploring career options in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using JavaScript, React, React Native & CSS. I am seeking jobs that utilize these new skills in roles like UI/UX Design and front end development. 
 
   <br>
+  
+<h2>Take a look at my portfolio</h2>
+
+<link>https://gastonirby.github.io/</link>
+
   <br> 
-  <b> Hire me as your next developer!</b>
+  <b style="color:blue;"> Hire me as your next developer!</b>
 </p>
  
 <section align=center> 
@@ -31,11 +36,6 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width=6% height=6%>
   
 </section>
-<h2></h2>
-
-<h2>Take a look at my portfolio!</h2>
-<br>
-<a>https://gastonirby.github.io/<a>
 
 
 <section align=center>
