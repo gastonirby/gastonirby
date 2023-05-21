@@ -11,7 +11,7 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
   <br>
   
 <h3 align=center>Take a look at my portfolio</h3>
-<h4 align=center><link align=center>gastonirby.com</link></h4>
+<h4 align=center><a align=center>gastonirby.com</a></h4>
   <br> 
   <h3 align=center>Hire me as your next developer!</h3>
 </p>
