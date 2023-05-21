@@ -5,13 +5,14 @@
 </h1>
   
 
-<p padding=5%>
+<p>
 Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun exploring career options in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using JavaScript, React, React Native & CSS. I am seeking jobs that utilize these new skills in roles like UI/UX Design and front end development. 
 
   <br>
   
 <h3 align=center>Take a look at my portfolio</h3>
 <h4 align=center><a>gastonirby.com</a></h4>
+<button><link src="gastonirby.com">PORTFOLIO</link></button>
   <br> 
   <h3 align=center>Hire me as your next developer!</h3>
 </p>
