@@ -12,7 +12,9 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
   
 <h3 align=center>Take a look at my portfolio</h3>
 <h4 align=center><a>gastonirby.com</a></h4>
-<button><link src="gastonirby.com">PORTFOLIO</link></button>
+<button>  
+   <a href="gastonirby.com">PORTFOLIO</a>
+</button>
   <br> 
   <h3 align=center>Hire me as your next developer!</h3>
 </p>
