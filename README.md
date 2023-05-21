@@ -1,5 +1,3 @@
-<body background-color=powderblue>
-
 <h1 align=center>
   <img src = "https://user-images.githubusercontent.com/91291366/159553740-e8bc37dd-8281-4208-b27b-57a575f0f41e.png" width = 4% height = 4%>
     Noooo one.. codes like Gaston!
@@ -49,5 +47,3 @@ I have a passion for design and I look forward to bringing that to my projects b
   </a>
 </section>
 <h4 align left>📫 gaston.irby@gmail.com</h4>
- 
-</body>
