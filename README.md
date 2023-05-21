@@ -13,11 +13,9 @@ I have a passion for design and I look forward to bringing that to my projects b
   <br>
   
 <h3 align=center>Take a look at my portfolio:</h3>
-<button border=1px>  
   <a href="https://gastonirby.com" align=center>
     <h4 align=center>PORTFOLIO</h4>
   </a>
-</button>
   <br> 
   <h3 align=center>Hire me as your next developer!</h3>
 </p>
