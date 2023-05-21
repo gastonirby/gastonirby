@@ -1,3 +1,5 @@
+<body background-color=powderblue>
+
 <h1 align=center>
   <img src = "https://user-images.githubusercontent.com/91291366/159553740-e8bc37dd-8281-4208-b27b-57a575f0f41e.png" width = 4% height = 4%>
     Noooo one.. codes like Gaston!
@@ -6,14 +8,15 @@
   
 
 <p>
-Though I am comfortable in leadership, I forever seek to remain teachable. In pursuit of bettering myself, I have begun exploring career options in tech. I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using JavaScript, React, React Native & CSS. I am seeking jobs that utilize these new skills in roles like UI/UX Design and front end development. 
+I have a passion for design and I look forward to bringing that to my projects by creating beautiful applications that function in a practical, seamless flow using HTML5, CSS, JavaScript, React, React Native & GSAP. I am seeking jobs that utilize these new skills in roles like UI/UX Design and front end development. 
 
   <br>
   
-<h3 align=center>Take a look at my portfolio</h3>
-<h4 align=center><a>gastonirby.com</a></h4>
-<button>  
-   <a href="https://gastonirby.com">PORTFOLIO</a>
+<h3 align=center>Take a look at my portfolio:</h3>
+<button border=1px>  
+  <a href="https://gastonirby.com" align=center>
+    <h4 align=center>PORTFOLIO</h4>
+  </a>
 </button>
   <br> 
   <h3 align=center>Hire me as your next developer!</h3>
@@ -47,3 +50,4 @@ Though I am comfortable in leadership, I forever seek to remain teachable. In pu
 </section>
 <h4 align left>📫 gaston.irby@gmail.com</h4>
  
+</body>
